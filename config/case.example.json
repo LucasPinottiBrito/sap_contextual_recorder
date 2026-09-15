@@ -1,0 +1,9 @@
+{
+  "name": "Titularidade - caso de teste 001",
+  "process": "alteracao_titularidade",
+  "inputs": {
+    "instalacao": "PREENCHER",
+    "novo_titular": "PREENCHER",
+    "data_vigencia": "PREENCHER"
+  }
+}
