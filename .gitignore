@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 venv/
 artifacts/
+gravacoes_processo_alteracao_titularidade/
+.env
